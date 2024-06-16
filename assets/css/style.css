@@ -265,13 +265,13 @@ nav {
 }
 
 .footer_links li:nth-child(1) {
-    animation-delay: 1.2s;
+    animation-delay: 6s;
 }
 .footer_links li:nth-child(2) {
-    animation-delay: 1.7s;
+    animation-delay: 6.5s;
 }
 .footer_links li:nth-child(3) {
-    animation-delay: 2.2s;
+    animation-delay: 7s;
 }
 
 .footer_links li a {
